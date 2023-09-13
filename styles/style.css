@@ -206,8 +206,11 @@ footer {
 .footer-column {
     width: 50%;
 }
+.social-links a{
+    margin-right: 25px;
+}
 
-.contact input[type="text"],
+.contact input[type="text"], .contact input[type="email"],
 textarea {
     display: block;
     margin-bottom: 24px;
